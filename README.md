@@ -1,0 +1,2 @@
+# zbar
+cross compiling zbar
