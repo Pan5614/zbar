@@ -1,0 +1,217 @@
+zbar/qrcode/zbar_libzbar_la-qrdec.lo: zbar/qrcode/qrdec.c \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/stdlib.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/features.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/stdc-predef.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/predefs.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/sys/cdefs.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/wordsize.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/gnu/stubs.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/sgidefs.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/gnu/stubs-o32.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../lib/gcc/mips-linux-gnu/4.7.2/include/stddef.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/waitflags.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/waitstatus.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/endian.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/endian.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/byteswap.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/byteswap-16.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/sys/types.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/types.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/typesizes.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/time.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/sys/select.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/select.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/sigset.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/time.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/sys/sysmacros.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/pthreadtypes.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/alloca.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../lib/gcc/mips-linux-gnu/4.7.2/include-fixed/limits.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../lib/gcc/mips-linux-gnu/4.7.2/include-fixed/syslimits.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/limits.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/posix1_lim.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/local_lim.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/linux/limits.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/posix2_lim.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/string.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/xlocale.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/string.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/string2.h \
+ zbar/qrcode.h include/zbar.h zbar/qrcode/qrdec.h zbar/qrcode/bch15_5.h \
+ zbar/qrcode/rs.h zbar/qrcode/isaac.h zbar/qrcode/util.h \
+ zbar/qrcode/binarize.h zbar/image.h include/config.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/inttypes.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../lib/gcc/mips-linux-gnu/4.7.2/include/stdint.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/stdint.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/wchar.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/assert.h \
+ zbar/error.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/stdio.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/libio.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/_G_config.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/wchar.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../lib/gcc/mips-linux-gnu/4.7.2/include/stdarg.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/stdio_lim.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/sys_errlist.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/stdio.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/errno.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/errno.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/linux/errno.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/asm/errno.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/asm-generic/errno-base.h \
+ zbar/symbol.h zbar/refcnt.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/pthread.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/sched.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/sched.h \
+ /opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/setjmp.h \
+ zbar/error.h zbar/svg.h
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/stdlib.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/features.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/stdc-predef.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/predefs.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/sys/cdefs.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/wordsize.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/gnu/stubs.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/sgidefs.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/gnu/stubs-o32.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../lib/gcc/mips-linux-gnu/4.7.2/include/stddef.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/waitflags.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/waitstatus.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/endian.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/endian.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/byteswap.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/byteswap-16.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/sys/types.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/types.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/typesizes.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/time.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/sys/select.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/select.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/sigset.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/time.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/sys/sysmacros.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/pthreadtypes.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/alloca.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../lib/gcc/mips-linux-gnu/4.7.2/include-fixed/limits.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../lib/gcc/mips-linux-gnu/4.7.2/include-fixed/syslimits.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/limits.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/posix1_lim.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/local_lim.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/linux/limits.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/posix2_lim.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/string.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/xlocale.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/string.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/string2.h:
+
+zbar/qrcode.h:
+
+include/zbar.h:
+
+zbar/qrcode/qrdec.h:
+
+zbar/qrcode/bch15_5.h:
+
+zbar/qrcode/rs.h:
+
+zbar/qrcode/isaac.h:
+
+zbar/qrcode/util.h:
+
+zbar/qrcode/binarize.h:
+
+zbar/image.h:
+
+include/config.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/inttypes.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../lib/gcc/mips-linux-gnu/4.7.2/include/stdint.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/stdint.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/wchar.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/assert.h:
+
+zbar/error.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/stdio.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/libio.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/_G_config.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/wchar.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../lib/gcc/mips-linux-gnu/4.7.2/include/stdarg.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/stdio_lim.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/sys_errlist.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/stdio.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/errno.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/errno.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/linux/errno.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/asm/errno.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/asm-generic/errno-base.h:
+
+zbar/symbol.h:
+
+zbar/refcnt.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/pthread.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/sched.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/sched.h:
+
+/opt/ingenic_compiler/mips-gcc472-glibc216/bin/../mips-linux-gnu/libc/usr/include/bits/setjmp.h:
+
+zbar/error.h:
+
+zbar/svg.h:
